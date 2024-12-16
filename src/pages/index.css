@@ -1,4 +1,5 @@
 .borda {
+    background-color: rgba(128, 128, 128, 0.2);
     border: 1px solid black;
 }
 
@@ -20,4 +21,10 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.cor{
+    color: whitesmoke ;
+    font-weight: bold;
+    font-style: italic;
 }

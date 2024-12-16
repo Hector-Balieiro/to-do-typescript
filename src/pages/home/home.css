@@ -1,0 +1,11 @@
+.fundo{
+    min-height: 90vh;
+    width: 100%;
+}
+
+.estilo-fonte{
+    font-size: 20px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 3px black;
+    background-color: rgba(122, 117, 117, 0.3)
+}
