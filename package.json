@@ -1,5 +1,5 @@
 {
-  "homepage":"https://hector-balieiro/to-do-typescript",
+  "homepage": "https://hector-balieiro/to-do-typescript",
   "name": "todo-type",
   "private": true,
   "version": "0.0.0",
@@ -7,11 +7,10 @@
   "scripts": {
     "dev": "vite",
     "lint": "eslint .",
-    "preview": "vite preview", 
+    "preview": "vite preview",
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-    
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
